@@ -1,6 +1,6 @@
 ## Vigilant
 
-This project allows police and other administrative services to dynamically set up geofences in order to send push notifications to regular citizens/users. Canada currently has an emergency alert system, but it is limited both in scope and effectiveness: it fails to reach all targeted users and is only purposed for serious incidents. This Android app was developed so police could warn residents about potentially dangerous events that have happened in their area (ex. Burglary at 16th Avenue and 5th Street. Suspect still at large in this area. Exercise extra caution).
+This project allows emergency services to dynamically set up geofences in order to send push notifications to regular citizens/users. Canada currently has an emergency alert system, but it is limited both in scope and effectiveness: it fails to reach all targeted users and is only purposed for serious incidents. This Android app was developed so police could warn residents about potentially dangerous events that have happened in their area (ex. Burglary at 16th Avenue and 5th Street. Suspect still at large in this area. Exercise extra caution).
 
 Structure:
 
